@@ -7,6 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E0D3EA3190B53910056BE32 /* SearchResultController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E0D3EA1190B53910056BE32 /* SearchResultController.m */; };
+		8E0D3EA4190B53910056BE32 /* SearchResultController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E0D3EA2190B53910056BE32 /* SearchResultController.xib */; };
+		8E0D3EA8190B5A050056BE32 /* PaymentController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E0D3EA6190B5A050056BE32 /* PaymentController.m */; };
+		8E0D3EA9190B5A050056BE32 /* PaymentController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E0D3EA7190B5A050056BE32 /* PaymentController.xib */; };
+		8E0D3EAD190B61C20056BE32 /* TicketController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E0D3EAB190B61C20056BE32 /* TicketController.m */; };
+		8E0D3EAE190B61C20056BE32 /* TicketController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E0D3EAC190B61C20056BE32 /* TicketController.xib */; };
+		8E0D3EB2190B63B90056BE32 /* RegisterAccountController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E0D3EB0190B63B90056BE32 /* RegisterAccountController.m */; };
+		8E0D3EB3190B63B90056BE32 /* RegisterAccountController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E0D3EB1190B63B90056BE32 /* RegisterAccountController.xib */; };
+		8E0D3EB7190B65290056BE32 /* UserRegisterController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E0D3EB5190B65290056BE32 /* UserRegisterController.m */; };
+		8E0D3EB8190B65290056BE32 /* UserRegisterController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E0D3EB6190B65290056BE32 /* UserRegisterController.xib */; };
+		8E1E2614190AEDA100C85514 /* UserDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E2612190AEDA100C85514 /* UserDetailController.m */; };
+		8E1E2615190AEDA100C85514 /* UserDetailController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E1E2613190AEDA100C85514 /* UserDetailController.xib */; };
+		8E1E2619190AEDCA00C85514 /* FlightDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E2617190AEDCA00C85514 /* FlightDetailController.m */; };
+		8E1E261A190AEDCA00C85514 /* FlightDetailController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E1E2618190AEDCA00C85514 /* FlightDetailController.xib */; };
+		8E1E261E190AEE0900C85514 /* AddFlightController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E261C190AEE0900C85514 /* AddFlightController.m */; };
+		8E1E261F190AEE0900C85514 /* AddFlightController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E1E261D190AEE0900C85514 /* AddFlightController.xib */; };
+		8E1E2623190AEE1A00C85514 /* AddUserController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E2621190AEE1A00C85514 /* AddUserController.m */; };
+		8E1E2624190AEE1A00C85514 /* AddUserController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E1E2622190AEE1A00C85514 /* AddUserController.xib */; };
+		8E1E2629190AEFB300C85514 /* OneWayTripController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E2627190AEFB300C85514 /* OneWayTripController.m */; };
+		8E1E262A190AEFB300C85514 /* OneWayTripController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E1E2628190AEFB300C85514 /* OneWayTripController.xib */; };
+		8E1E262E190AEFC700C85514 /* RoundTripController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E262C190AEFC700C85514 /* RoundTripController.m */; };
+		8E1E262F190AEFC700C85514 /* RoundTripController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E1E262D190AEFC700C85514 /* RoundTripController.xib */; };
+		8E1E2633190AEFE300C85514 /* MyTripsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E2631190AEFE300C85514 /* MyTripsController.m */; };
+		8E1E2634190AEFE300C85514 /* MyTripsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E1E2632190AEFE300C85514 /* MyTripsController.xib */; };
+		8E435B26190ABFE500C26018 /* UserPageController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E435B24190ABFE500C26018 /* UserPageController.m */; };
+		8E435B27190ABFE500C26018 /* UserPageController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E435B25190ABFE500C26018 /* UserPageController.xib */; };
+		8E435B2B190AC29000C26018 /* ManageFlightsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E435B29190AC29000C26018 /* ManageFlightsController.m */; };
+		8E435B2C190AC29000C26018 /* ManageFlightsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E435B2A190AC29000C26018 /* ManageFlightsController.xib */; };
+		8E435B30190AC2A500C26018 /* ManageUsersController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E435B2E190AC2A500C26018 /* ManageUsersController.m */; };
+		8E435B31190AC2A500C26018 /* ManageUsersController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E435B2F190AC2A500C26018 /* ManageUsersController.xib */; };
+		8E435B35190AC2BA00C26018 /* ManageTicketsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E435B33190AC2BA00C26018 /* ManageTicketsController.m */; };
+		8E435B36190AC2BA00C26018 /* ManageTicketsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E435B34190AC2BA00C26018 /* ManageTicketsController.xib */; };
 		8E70175E1909D143007CE3F3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E70175D1909D143007CE3F3 /* Foundation.framework */; };
 		8E7017601909D143007CE3F3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E70175F1909D143007CE3F3 /* CoreGraphics.framework */; };
 		8E7017621909D143007CE3F3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E7017611909D143007CE3F3 /* UIKit.framework */; };
@@ -19,6 +51,14 @@
 		8E7017791909D143007CE3F3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E7017611909D143007CE3F3 /* UIKit.framework */; };
 		8E7017811909D143007CE3F3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8E70177F1909D143007CE3F3 /* InfoPlist.strings */; };
 		8E7017831909D143007CE3F3 /* flightbookingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E7017821909D143007CE3F3 /* flightbookingTests.m */; };
+		8E70178F1909D288007CE3F3 /* LoginController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E70178D1909D288007CE3F3 /* LoginController.m */; };
+		8E7017901909D288007CE3F3 /* LoginController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E70178E1909D288007CE3F3 /* LoginController.xib */; };
+		8E7017941909DE51007CE3F3 /* AdminPageController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E7017921909DE51007CE3F3 /* AdminPageController.m */; };
+		8E7017951909DE51007CE3F3 /* AdminPageController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E7017931909DE51007CE3F3 /* AdminPageController.xib */; };
+		8E7017981909E09B007CE3F3 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E7017971909E09B007CE3F3 /* User.m */; };
+		8E70179D1909E17A007CE3F3 /* Role.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E70179C1909E17A007CE3F3 /* Role.m */; };
+		8E7017A01909E185007CE3F3 /* Flight.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E70179F1909E185007CE3F3 /* Flight.m */; };
+		8E7017A31909E194007CE3F3 /* Ticket.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E7017A21909E194007CE3F3 /* Ticket.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +72,54 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E0D3EA0190B53910056BE32 /* SearchResultController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchResultController.h; sourceTree = "<group>"; };
+		8E0D3EA1190B53910056BE32 /* SearchResultController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchResultController.m; sourceTree = "<group>"; };
+		8E0D3EA2190B53910056BE32 /* SearchResultController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SearchResultController.xib; sourceTree = "<group>"; };
+		8E0D3EA5190B5A050056BE32 /* PaymentController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PaymentController.h; sourceTree = "<group>"; };
+		8E0D3EA6190B5A050056BE32 /* PaymentController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PaymentController.m; sourceTree = "<group>"; };
+		8E0D3EA7190B5A050056BE32 /* PaymentController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PaymentController.xib; sourceTree = "<group>"; };
+		8E0D3EAA190B61C20056BE32 /* TicketController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TicketController.h; sourceTree = "<group>"; };
+		8E0D3EAB190B61C20056BE32 /* TicketController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TicketController.m; sourceTree = "<group>"; };
+		8E0D3EAC190B61C20056BE32 /* TicketController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TicketController.xib; sourceTree = "<group>"; };
+		8E0D3EAF190B63B90056BE32 /* RegisterAccountController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterAccountController.h; sourceTree = "<group>"; };
+		8E0D3EB0190B63B90056BE32 /* RegisterAccountController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterAccountController.m; sourceTree = "<group>"; };
+		8E0D3EB1190B63B90056BE32 /* RegisterAccountController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RegisterAccountController.xib; sourceTree = "<group>"; };
+		8E0D3EB4190B65290056BE32 /* UserRegisterController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserRegisterController.h; sourceTree = "<group>"; };
+		8E0D3EB5190B65290056BE32 /* UserRegisterController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserRegisterController.m; sourceTree = "<group>"; };
+		8E0D3EB6190B65290056BE32 /* UserRegisterController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UserRegisterController.xib; sourceTree = "<group>"; };
+		8E1E2611190AEDA100C85514 /* UserDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserDetailController.h; sourceTree = "<group>"; };
+		8E1E2612190AEDA100C85514 /* UserDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserDetailController.m; sourceTree = "<group>"; };
+		8E1E2613190AEDA100C85514 /* UserDetailController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UserDetailController.xib; sourceTree = "<group>"; };
+		8E1E2616190AEDCA00C85514 /* FlightDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlightDetailController.h; sourceTree = "<group>"; };
+		8E1E2617190AEDCA00C85514 /* FlightDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlightDetailController.m; sourceTree = "<group>"; };
+		8E1E2618190AEDCA00C85514 /* FlightDetailController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FlightDetailController.xib; sourceTree = "<group>"; };
+		8E1E261B190AEE0900C85514 /* AddFlightController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddFlightController.h; sourceTree = "<group>"; };
+		8E1E261C190AEE0900C85514 /* AddFlightController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddFlightController.m; sourceTree = "<group>"; };
+		8E1E261D190AEE0900C85514 /* AddFlightController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddFlightController.xib; sourceTree = "<group>"; };
+		8E1E2620190AEE1A00C85514 /* AddUserController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddUserController.h; sourceTree = "<group>"; };
+		8E1E2621190AEE1A00C85514 /* AddUserController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddUserController.m; sourceTree = "<group>"; };
+		8E1E2622190AEE1A00C85514 /* AddUserController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddUserController.xib; sourceTree = "<group>"; };
+		8E1E2626190AEFB300C85514 /* OneWayTripController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneWayTripController.h; sourceTree = "<group>"; };
+		8E1E2627190AEFB300C85514 /* OneWayTripController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneWayTripController.m; sourceTree = "<group>"; };
+		8E1E2628190AEFB300C85514 /* OneWayTripController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OneWayTripController.xib; sourceTree = "<group>"; };
+		8E1E262B190AEFC700C85514 /* RoundTripController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoundTripController.h; sourceTree = "<group>"; };
+		8E1E262C190AEFC700C85514 /* RoundTripController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RoundTripController.m; sourceTree = "<group>"; };
+		8E1E262D190AEFC700C85514 /* RoundTripController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RoundTripController.xib; sourceTree = "<group>"; };
+		8E1E2630190AEFE300C85514 /* MyTripsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTripsController.h; sourceTree = "<group>"; };
+		8E1E2631190AEFE300C85514 /* MyTripsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTripsController.m; sourceTree = "<group>"; };
+		8E1E2632190AEFE300C85514 /* MyTripsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyTripsController.xib; sourceTree = "<group>"; };
+		8E435B23190ABFE500C26018 /* UserPageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserPageController.h; sourceTree = "<group>"; };
+		8E435B24190ABFE500C26018 /* UserPageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserPageController.m; sourceTree = "<group>"; };
+		8E435B25190ABFE500C26018 /* UserPageController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UserPageController.xib; sourceTree = "<group>"; };
+		8E435B28190AC29000C26018 /* ManageFlightsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManageFlightsController.h; sourceTree = "<group>"; };
+		8E435B29190AC29000C26018 /* ManageFlightsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManageFlightsController.m; sourceTree = "<group>"; };
+		8E435B2A190AC29000C26018 /* ManageFlightsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ManageFlightsController.xib; sourceTree = "<group>"; };
+		8E435B2D190AC2A500C26018 /* ManageUsersController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManageUsersController.h; sourceTree = "<group>"; };
+		8E435B2E190AC2A500C26018 /* ManageUsersController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManageUsersController.m; sourceTree = "<group>"; };
+		8E435B2F190AC2A500C26018 /* ManageUsersController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ManageUsersController.xib; sourceTree = "<group>"; };
+		8E435B32190AC2BA00C26018 /* ManageTicketsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManageTicketsController.h; sourceTree = "<group>"; };
+		8E435B33190AC2BA00C26018 /* ManageTicketsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManageTicketsController.m; sourceTree = "<group>"; };
+		8E435B34190AC2BA00C26018 /* ManageTicketsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ManageTicketsController.xib; sourceTree = "<group>"; };
 		8E70175A1909D143007CE3F3 /* flightbooking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flightbooking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E70175D1909D143007CE3F3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8E70175F1909D143007CE3F3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -48,6 +136,20 @@
 		8E70177E1909D143007CE3F3 /* flightbookingTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "flightbookingTests-Info.plist"; sourceTree = "<group>"; };
 		8E7017801909D143007CE3F3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8E7017821909D143007CE3F3 /* flightbookingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = flightbookingTests.m; sourceTree = "<group>"; };
+		8E70178C1909D288007CE3F3 /* LoginController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginController.h; sourceTree = "<group>"; };
+		8E70178D1909D288007CE3F3 /* LoginController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginController.m; sourceTree = "<group>"; };
+		8E70178E1909D288007CE3F3 /* LoginController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginController.xib; sourceTree = "<group>"; };
+		8E7017911909DE51007CE3F3 /* AdminPageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AdminPageController.h; sourceTree = "<group>"; };
+		8E7017921909DE51007CE3F3 /* AdminPageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AdminPageController.m; sourceTree = "<group>"; };
+		8E7017931909DE51007CE3F3 /* AdminPageController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AdminPageController.xib; sourceTree = "<group>"; };
+		8E7017961909E09B007CE3F3 /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = User.h; sourceTree = "<group>"; };
+		8E7017971909E09B007CE3F3 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
+		8E70179B1909E17A007CE3F3 /* Role.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Role.h; sourceTree = "<group>"; };
+		8E70179C1909E17A007CE3F3 /* Role.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Role.m; sourceTree = "<group>"; };
+		8E70179E1909E185007CE3F3 /* Flight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Flight.h; sourceTree = "<group>"; };
+		8E70179F1909E185007CE3F3 /* Flight.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Flight.m; sourceTree = "<group>"; };
+		8E7017A11909E194007CE3F3 /* Ticket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ticket.h; sourceTree = "<group>"; };
+		8E7017A21909E194007CE3F3 /* Ticket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ticket.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,9 +176,96 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8E1E260A190AED1700C85514 /* AdminWorkArea.Flight */ = {
+			isa = PBXGroup;
+			children = (
+				8E1E2616190AEDCA00C85514 /* FlightDetailController.h */,
+				8E1E2617190AEDCA00C85514 /* FlightDetailController.m */,
+				8E1E2618190AEDCA00C85514 /* FlightDetailController.xib */,
+				8E1E261B190AEE0900C85514 /* AddFlightController.h */,
+				8E1E261C190AEE0900C85514 /* AddFlightController.m */,
+				8E1E261D190AEE0900C85514 /* AddFlightController.xib */,
+			);
+			name = AdminWorkArea.Flight;
+			sourceTree = "<group>";
+		};
+		8E1E2610190AED6D00C85514 /* AdminWorkArea.User */ = {
+			isa = PBXGroup;
+			children = (
+				8E1E2611190AEDA100C85514 /* UserDetailController.h */,
+				8E1E2612190AEDA100C85514 /* UserDetailController.m */,
+				8E1E2613190AEDA100C85514 /* UserDetailController.xib */,
+				8E1E2620190AEE1A00C85514 /* AddUserController.h */,
+				8E1E2621190AEE1A00C85514 /* AddUserController.m */,
+				8E1E2622190AEE1A00C85514 /* AddUserController.xib */,
+			);
+			name = AdminWorkArea.User;
+			sourceTree = "<group>";
+		};
+		8E435B21190ABFA800C26018 /* AdminWorkArea */ = {
+			isa = PBXGroup;
+			children = (
+				8E7017911909DE51007CE3F3 /* AdminPageController.h */,
+				8E7017921909DE51007CE3F3 /* AdminPageController.m */,
+				8E7017931909DE51007CE3F3 /* AdminPageController.xib */,
+				8E435B28190AC29000C26018 /* ManageFlightsController.h */,
+				8E435B29190AC29000C26018 /* ManageFlightsController.m */,
+				8E435B2A190AC29000C26018 /* ManageFlightsController.xib */,
+				8E435B2D190AC2A500C26018 /* ManageUsersController.h */,
+				8E435B2E190AC2A500C26018 /* ManageUsersController.m */,
+				8E435B2F190AC2A500C26018 /* ManageUsersController.xib */,
+				8E435B32190AC2BA00C26018 /* ManageTicketsController.h */,
+				8E435B33190AC2BA00C26018 /* ManageTicketsController.m */,
+				8E435B34190AC2BA00C26018 /* ManageTicketsController.xib */,
+			);
+			name = AdminWorkArea;
+			sourceTree = "<group>";
+		};
+		8E435B22190ABFBA00C26018 /* UserWorkArea */ = {
+			isa = PBXGroup;
+			children = (
+				8E435B23190ABFE500C26018 /* UserPageController.h */,
+				8E435B24190ABFE500C26018 /* UserPageController.m */,
+				8E435B25190ABFE500C26018 /* UserPageController.xib */,
+				8E1E2626190AEFB300C85514 /* OneWayTripController.h */,
+				8E1E2627190AEFB300C85514 /* OneWayTripController.m */,
+				8E1E2628190AEFB300C85514 /* OneWayTripController.xib */,
+				8E1E262B190AEFC700C85514 /* RoundTripController.h */,
+				8E1E262C190AEFC700C85514 /* RoundTripController.m */,
+				8E1E262D190AEFC700C85514 /* RoundTripController.xib */,
+				8E1E2630190AEFE300C85514 /* MyTripsController.h */,
+				8E1E2631190AEFE300C85514 /* MyTripsController.m */,
+				8E1E2632190AEFE300C85514 /* MyTripsController.xib */,
+				8E0D3EA0190B53910056BE32 /* SearchResultController.h */,
+				8E0D3EA1190B53910056BE32 /* SearchResultController.m */,
+				8E0D3EA2190B53910056BE32 /* SearchResultController.xib */,
+				8E0D3EA5190B5A050056BE32 /* PaymentController.h */,
+				8E0D3EA6190B5A050056BE32 /* PaymentController.m */,
+				8E0D3EA7190B5A050056BE32 /* PaymentController.xib */,
+				8E0D3EAA190B61C20056BE32 /* TicketController.h */,
+				8E0D3EAB190B61C20056BE32 /* TicketController.m */,
+				8E0D3EAC190B61C20056BE32 /* TicketController.xib */,
+				8E0D3EB4190B65290056BE32 /* UserRegisterController.h */,
+				8E0D3EB5190B65290056BE32 /* UserRegisterController.m */,
+				8E0D3EB6190B65290056BE32 /* UserRegisterController.xib */,
+			);
+			name = UserWorkArea;
+			sourceTree = "<group>";
+		};
 		8E7017511909D143007CE3F3 = {
 			isa = PBXGroup;
 			children = (
+				8E0D3EAF190B63B90056BE32 /* RegisterAccountController.h */,
+				8E0D3EB0190B63B90056BE32 /* RegisterAccountController.m */,
+				8E0D3EB1190B63B90056BE32 /* RegisterAccountController.xib */,
+				8E1E2610190AED6D00C85514 /* AdminWorkArea.User */,
+				8E1E260A190AED1700C85514 /* AdminWorkArea.Flight */,
+				8E435B22190ABFBA00C26018 /* UserWorkArea */,
+				8E435B21190ABFA800C26018 /* AdminWorkArea */,
+				8E70179A1909E0AF007CE3F3 /* Entities */,
+				8E70178C1909D288007CE3F3 /* LoginController.h */,
+				8E70178D1909D288007CE3F3 /* LoginController.m */,
+				8E70178E1909D288007CE3F3 /* LoginController.xib */,
 				8E7017631909D143007CE3F3 /* flightbooking */,
 				8E70177C1909D143007CE3F3 /* flightbookingTests */,
 				8E70175C1909D143007CE3F3 /* Frameworks */,
@@ -142,6 +331,21 @@
 				8E70177F1909D143007CE3F3 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8E70179A1909E0AF007CE3F3 /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				8E7017961909E09B007CE3F3 /* User.h */,
+				8E7017971909E09B007CE3F3 /* User.m */,
+				8E70179B1909E17A007CE3F3 /* Role.h */,
+				8E70179C1909E17A007CE3F3 /* Role.m */,
+				8E70179E1909E185007CE3F3 /* Flight.h */,
+				8E70179F1909E185007CE3F3 /* Flight.m */,
+				8E7017A11909E194007CE3F3 /* Ticket.h */,
+				8E7017A21909E194007CE3F3 /* Ticket.m */,
+			);
+			name = Entities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -219,7 +423,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E435B36190AC2BA00C26018 /* ManageTicketsController.xib in Resources */,
+				8E1E2634190AEFE300C85514 /* MyTripsController.xib in Resources */,
+				8E435B2C190AC29000C26018 /* ManageFlightsController.xib in Resources */,
+				8E1E262A190AEFB300C85514 /* OneWayTripController.xib in Resources */,
+				8E0D3EB3190B63B90056BE32 /* RegisterAccountController.xib in Resources */,
+				8E0D3EA4190B53910056BE32 /* SearchResultController.xib in Resources */,
+				8E0D3EAE190B61C20056BE32 /* TicketController.xib in Resources */,
+				8E0D3EB8190B65290056BE32 /* UserRegisterController.xib in Resources */,
+				8E1E2615190AEDA100C85514 /* UserDetailController.xib in Resources */,
+				8E435B31190AC2A500C26018 /* ManageUsersController.xib in Resources */,
+				8E1E261A190AEDCA00C85514 /* FlightDetailController.xib in Resources */,
+				8E1E261F190AEE0900C85514 /* AddFlightController.xib in Resources */,
+				8E1E2624190AEE1A00C85514 /* AddUserController.xib in Resources */,
 				8E7017681909D143007CE3F3 /* InfoPlist.strings in Resources */,
+				8E0D3EA9190B5A050056BE32 /* PaymentController.xib in Resources */,
+				8E7017901909D288007CE3F3 /* LoginController.xib in Resources */,
+				8E7017951909DE51007CE3F3 /* AdminPageController.xib in Resources */,
+				8E1E262F190AEFC700C85514 /* RoundTripController.xib in Resources */,
+				8E435B27190ABFE500C26018 /* UserPageController.xib in Resources */,
 				8E7017701909D143007CE3F3 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,8 +461,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E1E261E190AEE0900C85514 /* AddFlightController.m in Sources */,
+				8E7017981909E09B007CE3F3 /* User.m in Sources */,
+				8E1E2614190AEDA100C85514 /* UserDetailController.m in Sources */,
+				8E1E2619190AEDCA00C85514 /* FlightDetailController.m in Sources */,
+				8E0D3EA3190B53910056BE32 /* SearchResultController.m in Sources */,
 				8E70176E1909D143007CE3F3 /* AppDelegate.m in Sources */,
 				8E70176A1909D143007CE3F3 /* main.m in Sources */,
+				8E0D3EB2190B63B90056BE32 /* RegisterAccountController.m in Sources */,
+				8E7017941909DE51007CE3F3 /* AdminPageController.m in Sources */,
+				8E435B35190AC2BA00C26018 /* ManageTicketsController.m in Sources */,
+				8E435B2B190AC29000C26018 /* ManageFlightsController.m in Sources */,
+				8E0D3EB7190B65290056BE32 /* UserRegisterController.m in Sources */,
+				8E435B30190AC2A500C26018 /* ManageUsersController.m in Sources */,
+				8E0D3EAD190B61C20056BE32 /* TicketController.m in Sources */,
+				8E0D3EA8190B5A050056BE32 /* PaymentController.m in Sources */,
+				8E1E2623190AEE1A00C85514 /* AddUserController.m in Sources */,
+				8E1E2629190AEFB300C85514 /* OneWayTripController.m in Sources */,
+				8E7017A01909E185007CE3F3 /* Flight.m in Sources */,
+				8E1E2633190AEFE300C85514 /* MyTripsController.m in Sources */,
+				8E1E262E190AEFC700C85514 /* RoundTripController.m in Sources */,
+				8E435B26190ABFE500C26018 /* UserPageController.m in Sources */,
+				8E70178F1909D288007CE3F3 /* LoginController.m in Sources */,
+				8E70179D1909E17A007CE3F3 /* Role.m in Sources */,
+				8E7017A31909E194007CE3F3 /* Ticket.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +681,7 @@
 				8E7017881909D143007CE3F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8E7017891909D143007CE3F3 /* Build configuration list for PBXNativeTarget "flightbookingTests" */ = {
 			isa = XCConfigurationList;
@@ -445,6 +690,7 @@
 				8E70178B1909D143007CE3F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
